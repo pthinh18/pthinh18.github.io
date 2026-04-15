@@ -9,56 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 🎓 Học vấn
+* **Sinh viên ngành Kỹ thuật** - 
+* **Tiến độ:** Đã hoàn thành 91/150 tín chỉ.
+* **GPA hiện tại:** 2.59/4.0
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## 🛠 Kỹ năng chuyên môn
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+| Lĩnh vực | Kỹ năng cụ thể |
+|:---|:---|
+| **Vi điều khiển** | ESP8266, ESP32, STM32, NUCLEO-F407ZG |
+| **Lập trình** | C/C++, Python, cấu trúc dữ liệu và giải thuật |
+| **Công cụ & Phần mềm** | Git/GitHub, Proteus, Edge Impulse |
+| **Ngoại ngữ** | Tiếng Anh chuyên ngành kỹ thuật |
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## 🚀 Dự án tiêu biểu
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Hệ thống giám sát nhiệt độ LM35 (2026)
+* Thiết kế mạch đọc cảm biến LM35 bằng Arduino.
+* Xử lý dữ liệu định dạng JSON và giao tiếp Serial với máy tính.
+* Quản lý phiên bản và cộng tác nhóm qua GitHub.
+
+### Hệ thống máy bán hàng tự động (Vending Machine)
+* Xây dựng thuật toán điều khiển bằng máy trạng thái (State Machine) trên C++.
+* Thiết kế lưu đồ thuật toán và mô phỏng hệ thống.
+
+## 🏆 Chứng chỉ & Lab
+* **Gesture Recognition Model:** Huấn luyện mô hình nhận diện cử chỉ bằng nền tảng Edge Impulse.
