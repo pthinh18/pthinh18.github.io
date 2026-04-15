@@ -1,6 +1,6 @@
 ---
 title: "Giới thiệu bản thân"
-permalink: /about/
+permalink: /
 author_profile: true
 ---
 
